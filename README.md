@@ -26,7 +26,7 @@
 
 <br>
 
-- 👋 Hello there! I'm a passionate Data Engineer with over 4 years of experience in designing robust data pipelines and scalable data architectures. 
+- 👋 Hello there! I'm a passionate Data Engineer with over 5 years of experience in designing robust data pipelines and scalable data architectures. 
 - Proficient in leveraging advanced analytics and machine learning techniques using Python, R, PySpark and SQL to drive data-driven decision-making, yielding a increase in operational efficiency.
 - My GitHub repositories showcase projects ranging from ETL processes to data visualization, demonstrating my skills in data manipulation, statistical analysis, and data storytelling.
 - Let's connect and collaborate on innovative data-driven solutions! 🏆
@@ -133,7 +133,7 @@
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Jashwanth0011">
             <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:jashwanth@myjobtech.com">
+        <a style="margin-left: 10px;" target="_blank" href="mailto:jashwanthmyjob@gmail.com">
             <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
  </div>
 </p>
@@ -145,4 +145,4 @@ Total visitors till now 👇❤️<br>
 
 -------
 Credits: [Jashwanth](https://github.com/jashwanth0011)  
-Last Edited on: 01-05-2024
+Last Edited on: 02-22-2025
